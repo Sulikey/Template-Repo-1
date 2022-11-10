@@ -34,6 +34,13 @@ _if any packages aren't working, run the corresponding package install below_
 * _Run: ```npm install eslint@8.18.0 --save-dev```_
 * _Run: ```npm install eslint-webpack-plugin@2.7.0 --save-dev```_
 
+_if images are needed install the following_
+
+* _Run: ```npm install file-loader --save-dev```_
+* _Run: ```npm install html-loader@1.3.2 --save-dev```_
+
+
+
 
 ## License
  _MIT_
