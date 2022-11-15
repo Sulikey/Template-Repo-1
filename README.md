@@ -21,6 +21,7 @@ _Template used for further projects at Epicodus_
 * _Run: ```npm install jest@24.9.0 --save-dev```_
 * _Run: ```npm install @babel/core@7.18.6 --save-dev```_
 * _Run: ```npm install @babel/plugin-transform-modules-commonjs@7.18.6 --save-dev```_
+* _Run: ```npm install bootstrap@4.5.3```_
 
 _if any packages aren't working, run the corresponding package install below_
 
