@@ -41,7 +41,7 @@ _if images are needed install the following_
 * _Run: ```npm install html-loader@1.3.2 --save-dev```_
 
 _for .env file_
-* _Run: ```npm install dotenv-webpack@2.0.0 --save-dev```
+* _Run: ```npm install dotenv-webpack@2.0.0 --save-dev```_
 
 
 
