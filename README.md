@@ -45,6 +45,7 @@ _for .env file_
 
 _for gh-pages_
 * _Run: ```npm install --save-dev gh-pages```_
+* _Run: ```npm run deploy```_
 
 
 
