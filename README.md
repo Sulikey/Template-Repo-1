@@ -43,6 +43,9 @@ _if images are needed install the following_
 _for .env file_
 * _Run: ```npm install dotenv-webpack@2.0.0 --save-dev```_
 
+_for gh-pages_
+* _Run: ```npm install --save-dev gh-pages```_
+
 
 
 
